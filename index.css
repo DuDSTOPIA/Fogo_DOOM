@@ -1,12 +1,17 @@
+
+
 body {
-    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: medium;
     text-align: center;
     background-color: rgb(0, 0, 0);
     color: bisque;
 }
 
+
+
 #fireScreen {
-    
+    font-family: 'myfont';
+    font-size: 2em;
     width: auto;
     height: auto;
     position: relative;
@@ -16,6 +21,11 @@ body {
     padding-bottom: 5em;
 
 }
+
+@font-face {
+    font-family: 'myfont';
+    src: url('AmazDooMLeftOutline.ttf') format('truetype');
+  }
     
 
 table {
@@ -62,6 +72,7 @@ button:hover {
 }
 
 .textPreview {
+    font-family: Arial, Helvetica, sans-serif;
     font-size: small;
     margin-top: 30px;
     margin-bottom: 30px;
