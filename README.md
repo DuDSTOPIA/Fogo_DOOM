@@ -1,13 +1,16 @@
 <<<<<<< Updated upstream
-Esse algoritimo recria o fogo do game DOOM da versão de Play Station 1, 
-iniciando com a criação de uma tabela, passando pela estrutura de dados, 
-renderização do fogo na tabela em pixel, intensidade do fogo até chegar a animação final, 
-onde é adicionado o efeito de vento de forma simples.
+Esse é um algoritmo que simula o fogo do video game DOOM de 1993
+usando pixel art e javaScript. Foi um dos primeiros projetos que
+eu me propus a fazer que apesar de não ser complicado, me deu muito
+trabalho entender e toda a logica e recriar esse trabalho feito
+pelo Felipe Dechamps, mas que também abriu minha mente para alguns
+conceitos basicos de logica de programação e estrutura de dados.
+
+Segue o link de uma pagina interativa que hospedei na versel
+pra uma demonstração do resultado final.
+
+link: https://fogo-doom-7hn3k1hup-duds.vercel.app
+
+\o/
 
 
-Seguindo o tutorial do Felipe Deschamps.
-
-Link do tutorial https://www.youtube.com/watch?v=fxm8cadCqbs&t=518s&ab_channel=FilipeDeschamps
-=======
-# Fogo_DOOM
->>>>>>> Stashed changes
