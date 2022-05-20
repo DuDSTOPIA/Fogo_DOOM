@@ -1,4 +1,5 @@
-<<<<<<< Updated upstream
+Olá Mundo
+
 Esse é um algoritmo que simula o fogo do video game DOOM de 1993
 usando pixel art e javaScript. Foi um dos primeiros projetos que
 eu me propus a fazer que apesar de não ser complicado, me deu muito
