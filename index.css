@@ -1,0 +1,79 @@
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    background-color: rgb(0, 0, 0);
+    color: bisque;
+}
+
+#fireScreen {
+    
+    width: auto;
+    height: auto;
+    position: relative;
+    background-image: url(DoomCapa.jpg);
+    background-size: cover;
+    padding-top: 5em;
+    padding-bottom: 5em;
+
+}
+    
+
+table {
+    margin-left: auto;
+    margin-right: auto;
+    border-collapse: collapse;
+    border: 1px solid #000;
+}
+
+td {
+    width: 50px;
+    height: 50px;
+    border: 1px solid #000;
+    text-align: center;
+    vertical-align: center;
+    font-family: monospace;
+    font-size: 18px;
+    position: relative;
+}
+
+.pixel-index {
+    font-size: 10px;
+    display: inline-block;
+    position: absolute;
+    top: 2px;
+    right: 2px;
+    color: rgb(119, 94, 10);
+}
+
+td.pixel {
+    width: 4px;
+    height: 4px;
+    border: 0;
+}
+
+#buttonsBar {
+    background-color: rgb(109, 81, 54);
+    border: 2px solid rgb(167, 138, 46);
+}
+
+button:hover {
+    color: black;
+    background-color: bisque;
+}
+
+.textPreview {
+    font-size: small;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    text-align: center;
+    color: aliceblue;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20em
+}
+
+.icon-social-media {
+    margin-top: 20px;
+    width: 2em;
+    height: 2em;
+}
