@@ -110,11 +110,11 @@ var buttonLessFire = document.querySelector("#lessFire");
 buttonLessFire.onclick = function() {
     event.preventDefault();
     
-    if(intensity > 1 ) {
+    if(intensity > 4 ) {
         intensity = intensity - 2;
         createFireSource(intensity)
-    }else if(intensity < 2) {
-        return intensity = 2;
+    }else if(intensity < 4) {
+        return intensity = 4;
     }
     console.log(intensity)
 }
