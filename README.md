@@ -10,8 +10,7 @@ conceitos basicos de logica de programação e estrutura de dados.
 Segue o link de uma pagina interativa que hospedei na versel
 pra uma demonstração do resultado final.
 
-link: https://fogo-doom-7hn3k1hup-duds.vercel.app
-
+link: https://fogo-doom.vercel.app/
 \o/
 
 
