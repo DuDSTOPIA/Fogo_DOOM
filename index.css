@@ -87,6 +87,7 @@ button:hover {
 }
 
 .socialMedia {
+    margin-bottom: 10%;
     display: flex;
     justify-content:center
 }
