@@ -1,4 +1,7 @@
-
+@font-face {
+    font-family: 'myfont';
+    src: url('AmazDooMLeftOutline.ttf') format('truetype');
+}
 
 body {
     font-size: medium;
@@ -19,13 +22,7 @@ body {
     padding-bottom: 5em;
 
 
-}
-
-@font-face {
-    font-family: 'myfont';
-    src: url('AmazDooMLeftOutline.ttf') format('truetype');
-  }
-    
+}    
 
 table {
     margin-left: auto;
@@ -87,7 +84,7 @@ button:hover {
     margin-top: 2%;
     margin-bottom: 2%;
     align-content: center;
-    text-align: center;
+    text-align: justify;
     color: aliceblue;
     
     
@@ -108,4 +105,45 @@ audio{
     margin: 2%;
     box-shadow: 0px 0px 20px red;
     
+}
+
+@media(max-width:768px) {
+    #fireScreen {
+        padding-top: 1em;
+        padding-bottom: 2em;
+        text-align: center;
+        font-size: 30px;
+        color: rgb(255, 0, 0);
+        background-position: center;
+    }
+
+    #fireCanvas {
+        padding-top: 1em;
+    }
+
+    #buttonsBar {
+        width: 90%;
+    }
+    
+    button {
+        width: 10em;
+        height: 3em;
+    }
+    
+    .textPreview {
+        text-align: justify;
+        margin-top: 5em;
+        margin-bottom: 5em;
+        width: 70%;
+    }
+
+    p {
+        
+        margin-top: 5em;
+    }
+
+    .socialMedia a {
+        padding: 1em;
+        font-size:large;
+    }
 }
