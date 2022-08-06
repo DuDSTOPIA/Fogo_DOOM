@@ -16,7 +16,7 @@ body {
     font-family: 'myfont';
     font-size: 2em;
     position: relative;
-    background-image: url(DoomCapa.jpg);
+    background-image: url(img/DoomCapa.jpg);
     background-size: cover;
     padding-top: 5em;
     padding-bottom: 5em;
